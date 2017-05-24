@@ -3,4 +3,14 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
+    <string name="error_login">There was an error logging in</string>
+    <string name="button_login_action">Logging in</string>
+    <string name="success">Success</string>
+    <string name="placeholder_username">Username</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="message">Write here...</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet</string>
+    <string name="send_button">Send</string>
+    <string name="error_empty_message">Message cannot be empty</string>
+    <string name="action_logout">Logout</string>
 </resources>
